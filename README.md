@@ -1,2 +1,1 @@
 deux fonctionnalités
-changement aléatoire
